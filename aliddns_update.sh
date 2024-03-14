@@ -4,7 +4,7 @@
 accessKeyId="yourAccessKeyId"
 accessKeySecret="yourAccessKeySecret"
 recordId="recordId"
-rr="subDomain"
+rr="yourDomain" # e.g.: a.example.com -> a | abc.example.com -> abc
 type="AAAA" # A or AAAA
 requestPayload="" # Empty when using GET
 interfaceName="" # # See `ifconfig -a`
